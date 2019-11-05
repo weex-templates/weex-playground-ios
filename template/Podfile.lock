@@ -5,7 +5,7 @@ PODS:
   - SocketRocket (0.4.2)
   - WeexPluginLoader (0.0.1.9.1):
     - WeexSDK
-  - WeexSDK (0.18.0)
+  - WeexSDK (0.28.0)
 
 DEPENDENCIES:
   - SDWebImage (= 3.7.5)
